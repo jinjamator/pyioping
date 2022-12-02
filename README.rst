@@ -41,7 +41,7 @@ Create a unicast udp 1000pps setup and test for 10 seconds
 Supported Parameters
 ---------------------
 
-To see all supported parameters for the set_options function, review the constructor of the IPerfInstance object.
+To see all supported parameters for the set_options function, review the constructor of the IOPingInstance object.
 
 
 Contribute
